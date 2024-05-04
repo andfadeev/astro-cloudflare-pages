@@ -14,7 +14,12 @@
   "dependencies": {
     "@astrojs/check": "^0.5.10",
     "@astrojs/cloudflare": "^10.2.5",
+    "@lucia-auth/adapter-drizzle": "^1.0.7",
+    "arctic": "^1.8.0",
     "astro": "^4.7.1",
+    "drizzle-kit": "^0.20.17",
+    "drizzle-orm": "^0.30.10",
+    "lucia": "^3.2.0",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
